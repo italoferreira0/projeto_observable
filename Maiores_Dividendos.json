@@ -1,0 +1,1082 @@
+[
+    {
+        "codigo": "WEGE3",
+        "dividendo_atual": 1.85,
+        "dividendo_medio": 1.25,
+        "p_l": 27.95,
+        "p_vp": 8.22,
+        "setor": "Bens Industriais",
+        "data": "2025-06-02"
+    },
+    {
+        "codigo": "RAIL3",
+        "dividendo_atual": 0.47,
+        "dividendo_medio": 0.18,
+        "p_l": -24.89,
+        "p_vp": 2.43,
+        "setor": "Bens Industriais",
+        "data": "2025-06-02"
+    },
+    {
+        "codigo": "ECOR3",
+        "dividendo_atual": 3.0,
+        "dividendo_medio": 1.13,
+        "p_l": 5.93,
+        "p_vp": 1.36,
+        "setor": "Bens Industriais",
+        "data": "2025-06-02"
+    },
+    {
+        "codigo": "EMBR3",
+        "dividendo_atual": 0.4,
+        "dividendo_medio": 0.0,
+        "p_l": 21.88,
+        "p_vp": 2.64,
+        "setor": "Bens Industriais",
+        "data": "2025-06-02"
+    },
+    {
+        "codigo": "EALT4",
+        "dividendo_atual": 4.31,
+        "dividendo_medio": 3.97,
+        "p_l": 3.42,
+        "p_vp": 0.96,
+        "setor": "Bens Industriais",
+        "data": "2025-06-02"
+    },
+    {
+        "codigo": "JSLG3",
+        "dividendo_atual": 6.76,
+        "dividendo_medio": 5.61,
+        "p_l": 8.29,
+        "p_vp": 0.95,
+        "setor": "Bens Industriais",
+        "data": "2025-06-02"
+    },
+    {
+        "codigo": "MILS3",
+        "dividendo_atual": 5.6,
+        "dividendo_medio": 2.95,
+        "p_l": 8.72,
+        "p_vp": 1.67,
+        "setor": "Bens Industriais",
+        "data": "2025-06-02"
+    },
+    {
+        "codigo": "RAPT4",
+        "dividendo_atual": 4.52,
+        "dividendo_medio": 5.24,
+        "p_l": 9.33,
+        "p_vp": 0.96,
+        "setor": "Bens Industriais",
+        "data": "2025-06-02"
+    },
+    {
+        "codigo": "STBP3",
+        "dividendo_atual": 5.46,
+        "dividendo_medio": 4.44,
+        "p_l": 14.9,
+        "p_vp": 19.44,
+        "setor": "Bens Industriais",
+        "data": "2025-06-02"
+    },
+    {
+        "codigo": "SHUL4",
+        "dividendo_atual": 7.6,
+        "dividendo_medio": 4.28,
+        "p_l": 7.26,
+        "p_vp": 1.32,
+        "setor": "Bens Industriais",
+        "data": "2025-06-02"
+    },
+    {
+        "codigo": "TASA3",
+        "dividendo_atual": 2.55,
+        "dividendo_medio": 5.01,
+        "p_l": 13.12,
+        "p_vp": 0.79,
+        "setor": "Bens Industriais",
+        "data": "2025-06-02"
+    },
+    {
+        "codigo": "TUPY3",
+        "dividendo_atual": 6.97,
+        "dividendo_medio": 2.92,
+        "p_l": -63.06,
+        "p_vp": 0.81,
+        "setor": "Bens Industriais",
+        "data": "2025-06-02"
+    },
+    {
+        "codigo": "VLID3",
+        "dividendo_atual": 10.04,
+        "dividendo_medio": 3.29,
+        "p_l": 6.85,
+        "p_vp": 1.2,
+        "setor": "Bens Industriais",
+        "data": "2025-06-02"
+    },
+    {
+        "codigo": "POMO4",
+        "dividendo_atual": 7.93,
+        "dividendo_medio": 4.89,
+        "p_l": 7.43,
+        "p_vp": 2.13,
+        "setor": "Bens Industriais",
+        "data": "2025-06-02"
+    },
+    {
+        "codigo": "CSUD3",
+        "dividendo_atual": 6.15,
+        "dividendo_medio": 5.02,
+        "p_l": 8.24,
+        "p_vp": 1.52,
+        "setor": "Bens Industriais",
+        "data": "2025-06-02"
+    },
+    {
+        "codigo": "FRAS3",
+        "dividendo_atual": 1.97,
+        "dividendo_medio": 2.72,
+        "p_l": 21.66,
+        "p_vp": 3.33,
+        "setor": "Bens Industriais",
+        "data": "2025-06-02"
+    },
+    {
+        "codigo": "ROMI3",
+        "dividendo_atual": 9.38,
+        "dividendo_medio": 8.86,
+        "p_l": 8.11,
+        "p_vp": 0.71,
+        "setor": "Bens Industriais",
+        "data": "2025-06-02"
+    },
+    {
+        "codigo": "TGMA3",
+        "dividendo_atual": 7.02,
+        "dividendo_medio": 5.56,
+        "p_l": 8.8,
+        "p_vp": 2.52,
+        "setor": "Bens Industriais",
+        "data": "2025-06-02"
+    },
+    {
+        "codigo": "MTSA4",
+        "dividendo_atual": 3.0,
+        "dividendo_medio": 4.78,
+        "p_l": 9.99,
+        "p_vp": 0.79,
+        "setor": "Bens Industriais",
+        "data": "2025-06-02"
+    },
+    {
+        "codigo": "KEPL3",
+        "dividendo_atual": 10.15,
+        "dividendo_medio": 6.51,
+        "p_l": 8.36,
+        "p_vp": 2.02,
+        "setor": "Bens Industriais",
+        "data": "2025-06-02"
+    },
+    {
+        "codigo": "PRNR3",
+        "dividendo_atual": 0.32,
+        "dividendo_medio": 1.16,
+        "p_l": 32.83,
+        "p_vp": 2.15,
+        "setor": "Bens Industriais",
+        "data": "2025-06-02"
+    },
+    {
+        "codigo": "WLMM3",
+        "dividendo_atual": 5.92,
+        "dividendo_medio": 3.01,
+        "p_l": 6.93,
+        "p_vp": 1.16,
+        "setor": "Bens Industriais",
+        "data": "2025-06-02"
+    },
+    {
+        "codigo": "PORT3",
+        "dividendo_atual": 7.82,
+        "dividendo_medio": 4.94,
+        "p_l": 13.34,
+        "p_vp": 2.78,
+        "setor": "Bens Industriais",
+        "data": "2025-06-02"
+    },
+    {
+        "codigo": "MRSA3B",
+        "dividendo_atual": 3.29,
+        "dividendo_medio": 1.68,
+        "p_l": 7.12,
+        "p_vp": 1.27,
+        "setor": "Bens Industriais",
+        "data": "2025-06-02"
+    },
+    {
+        "codigo": "VAMO3",
+        "dividendo_atual": 5.4,
+        "dividendo_medio": 3.69,
+        "p_l": 7.64,
+        "p_vp": 2.12,
+        "setor": "Bens Industriais",
+        "data": "2025-06-02"
+    },
+    {
+        "codigo": "GGPS3",
+        "dividendo_atual": 2.16,
+        "dividendo_medio": 1.22,
+        "p_l": 15.18,
+        "p_vp": 2.74,
+        "setor": "Bens Industriais",
+        "data": "2025-06-02"
+    },
+    {
+        "codigo": "MATD3",
+        "dividendo_atual": 1.58,
+        "dividendo_medio": 1.36,
+        "p_l": -4.97,
+        "p_vp": 1.21,
+        "setor": "Bens Industriais",
+        "data": "2025-06-02"
+    },
+    {
+        "codigo": "ARML3",
+        "dividendo_atual": 6.46,
+        "dividendo_medio": 3.55,
+        "p_l": 13.33,
+        "p_vp": 1.37,
+        "setor": "Bens Industriais",
+        "data": "2025-06-02"
+    },
+    {
+        "codigo": "LREN3",
+        "dividendo_atual": 3.77,
+        "dividendo_medio": 3.07,
+        "p_l": 15.16,
+        "p_vp": 1.89,
+        "setor": "Consumo Ciclico",
+        "data": "2025-06-02"
+    },
+    {
+        "codigo": "MGLU3",
+        "dividendo_atual": 3.31,
+        "dividendo_medio": 0.08,
+        "p_l": 16.33,
+        "p_vp": 0.62,
+        "setor": "Consumo Ciclico",
+        "data": "2025-06-02"
+    },
+    {
+        "codigo": "MOVI3",
+        "dividendo_atual": 2.56,
+        "dividendo_medio": 5.65,
+        "p_l": 9.37,
+        "p_vp": 0.94,
+        "setor": "Consumo Ciclico",
+        "data": "2025-06-02"
+    },
+    {
+        "codigo": "GUAR3",
+        "dividendo_atual": 1.49,
+        "dividendo_medio": 2.18,
+        "p_l": 12.96,
+        "p_vp": 0.78,
+        "setor": "Consumo Ciclico",
+        "data": "2025-06-02"
+    },
+    {
+        "codigo": "ANIM3",
+        "dividendo_atual": 12.35,
+        "dividendo_medio": 5.97,
+        "p_l": 14.51,
+        "p_vp": 0.71,
+        "setor": "Consumo Ciclico",
+        "data": "2025-06-02"
+    },
+    {
+        "codigo": "SBFG3",
+        "dividendo_atual": 4.46,
+        "dividendo_medio": 1.23,
+        "p_l": 5.3,
+        "p_vp": 1.03,
+        "setor": "Consumo Ciclico",
+        "data": "2025-06-02"
+    },
+    {
+        "codigo": "CEAB3",
+        "dividendo_atual": 2.15,
+        "dividendo_medio": 0.86,
+        "p_l": 13.81,
+        "p_vp": 1.63,
+        "setor": "Consumo Ciclico",
+        "data": "2025-06-02"
+    },
+    {
+        "codigo": "CYRE3",
+        "dividendo_atual": 4.28,
+        "dividendo_medio": 4.91,
+        "p_l": 5.66,
+        "p_vp": 1.03,
+        "setor": "Consumo Ciclico",
+        "data": "2025-06-02"
+    },
+    {
+        "codigo": "COGN3",
+        "dividendo_atual": 2.25,
+        "dividendo_medio": 0.0,
+        "p_l": 5.65,
+        "p_vp": 0.45,
+        "setor": "Consumo Ciclico",
+        "data": "2025-06-02"
+    },
+    {
+        "codigo": "TEND3",
+        "dividendo_atual": 0.74,
+        "dividendo_medio": 0.81,
+        "p_l": 15.35,
+        "p_vp": 2.66,
+        "setor": "Consumo Ciclico",
+        "data": "2025-06-02"
+    },
+    {
+        "codigo": "EVEN3",
+        "dividendo_atual": 5.56,
+        "dividendo_medio": 8.01,
+        "p_l": 46.08,
+        "p_vp": 0.76,
+        "setor": "Consumo Ciclico",
+        "data": "2025-06-02"
+    },
+    {
+        "codigo": "LEVE3",
+        "dividendo_atual": 8.21,
+        "dividendo_medio": 11.28,
+        "p_l": 8.56,
+        "p_vp": 4.82,
+        "setor": "Consumo Ciclico",
+        "data": "2025-06-02"
+    },
+    {
+        "codigo": "MYPK3",
+        "dividendo_atual": 5.86,
+        "dividendo_medio": 5.12,
+        "p_l": 8.4,
+        "p_vp": 0.44,
+        "setor": "Consumo Ciclico",
+        "data": "2025-06-02"
+    },
+    {
+        "codigo": "EZTC3",
+        "dividendo_atual": 8.77,
+        "dividendo_medio": 3.92,
+        "p_l": 6.57,
+        "p_vp": 0.59,
+        "setor": "Consumo Ciclico",
+        "data": "2025-06-02"
+    },
+    {
+        "codigo": "CGRA4",
+        "dividendo_atual": 9.74,
+        "dividendo_medio": 8.34,
+        "p_l": 5.59,
+        "p_vp": 0.61,
+        "setor": "Consumo Ciclico",
+        "data": "2025-06-02"
+    },
+    {
+        "codigo": "GRND3",
+        "dividendo_atual": 8.96,
+        "dividendo_medio": 9.36,
+        "p_l": 6.73,
+        "p_vp": 1.21,
+        "setor": "Consumo Ciclico",
+        "data": "2025-06-02"
+    },
+    {
+        "codigo": "JHSF3",
+        "dividendo_atual": 6.95,
+        "dividendo_medio": 6.26,
+        "p_l": 3.39,
+        "p_vp": 0.63,
+        "setor": "Consumo Ciclico",
+        "data": "2025-06-02"
+    },
+    {
+        "codigo": "RENT3",
+        "dividendo_atual": 3.86,
+        "dividendo_medio": 2.23,
+        "p_l": 24.26,
+        "p_vp": 1.77,
+        "setor": "Consumo Ciclico",
+        "data": "2025-06-02"
+    },
+    {
+        "codigo": "VIVA3",
+        "dividendo_atual": 2.54,
+        "dividendo_medio": 0.98,
+        "p_l": 8.42,
+        "p_vp": 2.36,
+        "setor": "Consumo Ciclico",
+        "data": "2025-06-02"
+    },
+    {
+        "codigo": "VULC3",
+        "dividendo_atual": 6.77,
+        "dividendo_medio": 6.34,
+        "p_l": 9.43,
+        "p_vp": 2.51,
+        "setor": "Consumo Ciclico",
+        "data": "2025-06-02"
+    },
+    {
+        "codigo": "YDUQ3",
+        "dividendo_atual": 3.6,
+        "dividendo_medio": 1.9,
+        "p_l": 14.48,
+        "p_vp": 1.49,
+        "setor": "Consumo Ciclico",
+        "data": "2025-06-02"
+    },
+    {
+        "codigo": "MTRE3",
+        "dividendo_atual": 11.21,
+        "dividendo_medio": 9.6,
+        "p_l": 7.09,
+        "p_vp": 0.42,
+        "setor": "Consumo Ciclico",
+        "data": "2025-06-02"
+    },
+    {
+        "codigo": "ALPA4",
+        "dividendo_atual": 1.16,
+        "dividendo_medio": 0.26,
+        "p_l": 31.16,
+        "p_vp": 1.5,
+        "setor": "Consumo Ciclico",
+        "data": "2025-06-02"
+    },
+    {
+        "codigo": "DIRR3",
+        "dividendo_atual": 8.19,
+        "dividendo_medio": 5.79,
+        "p_l": 10.85,
+        "p_vp": 3.25,
+        "setor": "Consumo Ciclico",
+        "data": "2025-06-02"
+    },
+    {
+        "codigo": "SEER3",
+        "dividendo_atual": 1.52,
+        "dividendo_medio": 0.89,
+        "p_l": 20.85,
+        "p_vp": 1.0,
+        "setor": "Consumo Ciclico",
+        "data": "2025-06-02"
+    },
+    {
+        "codigo": "TRIS3",
+        "dividendo_atual": 3.86,
+        "dividendo_medio": 3.81,
+        "p_l": 8.05,
+        "p_vp": 0.98,
+        "setor": "Consumo Ciclico",
+        "data": "2025-06-02"
+    },
+    {
+        "codigo": "MDNE3",
+        "dividendo_atual": 6.01,
+        "dividendo_medio": 6.01,
+        "p_l": 6.53,
+        "p_vp": 1.13,
+        "setor": "Consumo Ciclico",
+        "data": "2025-06-02"
+    },
+    {
+        "codigo": "TECN3",
+        "dividendo_atual": 3.74,
+        "dividendo_medio": 1.77,
+        "p_l": 6.39,
+        "p_vp": 0.99,
+        "setor": "Consumo Ciclico",
+        "data": "2025-06-02"
+    },
+    {
+        "codigo": "VSTE3",
+        "dividendo_atual": 0.02,
+        "dividendo_medio": 0.59,
+        "p_l": -72.97,
+        "p_vp": 0.66,
+        "setor": "Consumo Ciclico",
+        "data": "2025-06-02"
+    },
+    {
+        "codigo": "LAVV3",
+        "dividendo_atual": 8.69,
+        "dividendo_medio": 10.14,
+        "p_l": 6.41,
+        "p_vp": 1.31,
+        "setor": "Consumo Ciclico",
+        "data": "2025-06-02"
+    },
+    {
+        "codigo": "WHRL4",
+        "dividendo_atual": 13.43,
+        "dividendo_medio": 9.3,
+        "p_l": 8.13,
+        "p_vp": 2.66,
+        "setor": "Consumo Ciclico",
+        "data": "2025-06-02"
+    },
+    {
+        "codigo": "CAMB3",
+        "dividendo_atual": 8.9,
+        "dividendo_medio": 3.8,
+        "p_l": 5.36,
+        "p_vp": 1.35,
+        "setor": "Consumo Ciclico",
+        "data": "2025-06-02"
+    },
+    {
+        "codigo": "TFCO4",
+        "dividendo_atual": 1.5,
+        "dividendo_medio": 1.42,
+        "p_l": 107.51,
+        "p_vp": 27.96,
+        "setor": "Consumo Ciclico",
+        "data": "2025-06-02"
+    },
+    {
+        "codigo": "CURY3",
+        "dividendo_atual": 5.15,
+        "dividendo_medio": 7.07,
+        "p_l": 11.64,
+        "p_vp": 7.41,
+        "setor": "Consumo Ciclico",
+        "data": "2025-06-02"
+    },
+    {
+        "codigo": "MELK3",
+        "dividendo_atual": 31.27,
+        "dividendo_medio": 9.17,
+        "p_l": 11.74,
+        "p_vp": 0.86,
+        "setor": "Consumo Ciclico",
+        "data": "2025-06-02"
+    },
+    {
+        "codigo": "SMFT3",
+        "dividendo_atual": 2.47,
+        "dividendo_medio": 3.1,
+        "p_l": 30.71,
+        "p_vp": 2.58,
+        "setor": "Consumo Ciclico",
+        "data": "2025-06-02"
+    },
+    {
+        "codigo": "CSED3",
+        "dividendo_atual": 7.12,
+        "dividendo_medio": 4.32,
+        "p_l": 9.89,
+        "p_vp": 1.22,
+        "setor": "Consumo Ciclico",
+        "data": "2025-06-02"
+    },
+    {
+        "codigo": "VTRU3",
+        "dividendo_atual": 0.23,
+        "dividendo_medio": 0.23,
+        "p_l": 3.85,
+        "p_vp": 0.49,
+        "setor": "Consumo Ciclico",
+        "data": "2025-06-02"
+    },
+    {
+        "codigo": "AZZA3",
+        "dividendo_atual": 2.53,
+        "dividendo_medio": 2.03,
+        "p_l": 24.18,
+        "p_vp": 1.2,
+        "setor": "Consumo Ciclico",
+        "data": "2025-06-02"
+    },
+    {
+        "codigo": "HBOR3",
+        "dividendo_atual": 3.97,
+        "dividendo_medio": 3.81,
+        "p_l": 5.95,
+        "p_vp": 0.23,
+        "setor": "Consumo Ciclico",
+        "data": "2025-06-02"
+    },
+    {
+        "codigo": "JBSS3",
+        "dividendo_atual": 14.96,
+        "dividendo_medio": 6.32,
+        "p_l": 8.14,
+        "p_vp": 2.05,
+        "setor": "Consumo nao Ciclico",
+        "data": "2025-06-02"
+    },
+    {
+        "codigo": "ABEV3",
+        "dividendo_atual": 6.58,
+        "dividendo_medio": 4.66,
+        "p_l": 15.16,
+        "p_vp": 2.31,
+        "setor": "Consumo nao Ciclico",
+        "data": "2025-06-02"
+    },
+    {
+        "codigo": "BRFS3",
+        "dividendo_atual": 3.47,
+        "dividendo_medio": 0.56,
+        "p_l": 9.02,
+        "p_vp": 2.15,
+        "setor": "Consumo nao Ciclico",
+        "data": "2025-06-02"
+    },
+    {
+        "codigo": "MDIA3",
+        "dividendo_atual": 2.44,
+        "dividendo_medio": 2.07,
+        "p_l": 14.19,
+        "p_vp": 1.0,
+        "setor": "Consumo nao Ciclico",
+        "data": "2025-06-02"
+    },
+    {
+        "codigo": "CAML3",
+        "dividendo_atual": 4.63,
+        "dividendo_medio": 4.06,
+        "p_l": 7.57,
+        "p_vp": 0.47,
+        "setor": "Consumo nao Ciclico",
+        "data": "2025-06-02"
+    },
+    {
+        "codigo": "MRFG3",
+        "dividendo_atual": 11.15,
+        "dividendo_medio": 11.08,
+        "p_l": 7.67,
+        "p_vp": 7.68,
+        "setor": "Consumo nao Ciclico",
+        "data": "2025-06-02"
+    },
+    {
+        "codigo": "NTCO3",
+        "dividendo_atual": 0.34,
+        "dividendo_medio": 1.39,
+        "p_l": -1.74,
+        "p_vp": 0.94,
+        "setor": "Consumo nao Ciclico",
+        "data": "2025-06-02"
+    },
+    {
+        "codigo": "SLCE3",
+        "dividendo_atual": 2.89,
+        "dividendo_medio": 4.76,
+        "p_l": 11.13,
+        "p_vp": 1.69,
+        "setor": "Consumo nao Ciclico",
+        "data": "2025-06-02"
+    },
+    {
+        "codigo": "CRFB3",
+        "dividendo_atual": 1.12,
+        "dividendo_medio": 1.88,
+        "p_l": 9.22,
+        "p_vp": 0.85,
+        "setor": "Consumo nao Ciclico",
+        "data": "2025-06-02"
+    },
+    {
+        "codigo": "SMTO3",
+        "dividendo_atual": 6.37,
+        "dividendo_medio": 4.61,
+        "p_l": 6.24,
+        "p_vp": 1.03,
+        "setor": "Consumo nao Ciclico",
+        "data": "2025-06-02"
+    },
+    {
+        "codigo": "AGRO3",
+        "dividendo_atual": 7.4,
+        "dividendo_medio": 9.71,
+        "p_l": 6.94,
+        "p_vp": 0.99,
+        "setor": "Consumo nao Ciclico",
+        "data": "2025-06-02"
+    },
+    {
+        "codigo": "PETZ3",
+        "dividendo_atual": 6.67,
+        "dividendo_medio": 2.08,
+        "p_l": -48.73,
+        "p_vp": 1.2,
+        "setor": "Consumo nao Ciclico",
+        "data": "2025-06-02"
+    },
+    {
+        "codigo": "GMAT3",
+        "dividendo_atual": 2.63,
+        "dividendo_medio": 3.03,
+        "p_l": 12.48,
+        "p_vp": 1.74,
+        "setor": "Consumo nao Ciclico",
+        "data": "2025-06-02"
+    },
+    {
+        "codigo": "LJQQ3",
+        "dividendo_atual": 4.24,
+        "dividendo_medio": 2.4,
+        "p_l": -6.25,
+        "p_vp": 0.99,
+        "setor": "Consumo nao Ciclico",
+        "data": "2025-06-02"
+    },
+    {
+        "codigo": "JALL3",
+        "dividendo_atual": 1.65,
+        "dividendo_medio": 3.14,
+        "p_l": -35.1,
+        "p_vp": 0.6,
+        "setor": "Consumo nao Ciclico",
+        "data": "2025-06-02"
+    },
+    {
+        "codigo": "VITT3",
+        "dividendo_atual": 3.57,
+        "dividendo_medio": 3.08,
+        "p_l": 9.56,
+        "p_vp": 1.11,
+        "setor": "Consumo nao Ciclico",
+        "data": "2025-06-02"
+    },
+    {
+        "codigo": "SOJA3",
+        "dividendo_atual": 2.65,
+        "dividendo_medio": 3.27,
+        "p_l": 14.97,
+        "p_vp": 1.11,
+        "setor": "Consumo nao Ciclico",
+        "data": "2025-06-02"
+    },
+    {
+        "codigo": "TTEN3",
+        "dividendo_atual": 1.37,
+        "dividendo_medio": 0.66,
+        "p_l": 9.04,
+        "p_vp": 1.73,
+        "setor": "Consumo nao Ciclico",
+        "data": "2025-06-02"
+    },
+    {
+        "codigo": "ASAI3",
+        "dividendo_atual": 0.96,
+        "dividendo_medio": 0.51,
+        "p_l": 18.5,
+        "p_vp": 2.84,
+        "setor": "Consumo nao Ciclico",
+        "data": "2025-06-02"
+    },
+    {
+        "codigo": "LAND3",
+        "dividendo_atual": 0.6,
+        "dividendo_medio": 3.09,
+        "p_l": 105.24,
+        "p_vp": 1.53,
+        "setor": "Consumo nao Ciclico",
+        "data": "2025-06-02"
+    },
+    {
+        "codigo": "ITSA4",
+        "dividendo_atual": 8.31,
+        "dividendo_medio": 6.28,
+        "p_l": 7.91,
+        "p_vp": 1.4,
+        "setor": "Financeiro",
+        "data": "2025-06-02"
+    },
+    {
+        "codigo": "BBDC3",
+        "dividendo_atual": 8.85,
+        "dividendo_medio": 6.18,
+        "p_l": 7.96,
+        "p_vp": 0.87,
+        "setor": "Financeiro",
+        "data": "2025-06-02"
+    },
+    {
+        "codigo": "BBAS3",
+        "dividendo_atual": 12.93,
+        "dividendo_medio": 8.5,
+        "p_l": 6.13,
+        "p_vp": 0.73,
+        "setor": "Financeiro",
+        "data": "2025-06-02"
+    },
+    {
+        "codigo": "ITUB4",
+        "dividendo_atual": 7.03,
+        "dividendo_medio": 4.82,
+        "p_l": 9.56,
+        "p_vp": 1.99,
+        "setor": "Financeiro",
+        "data": "2025-06-02"
+    },
+    {
+        "codigo": "MULT3",
+        "dividendo_atual": 4.11,
+        "dividendo_medio": 3.26,
+        "p_l": 10.54,
+        "p_vp": 2.4,
+        "setor": "Financeiro",
+        "data": "2025-06-02"
+    },
+    {
+        "codigo": "B3SA3",
+        "dividendo_atual": 2.21,
+        "dividendo_medio": 4.53,
+        "p_l": 15.2,
+        "p_vp": 3.83,
+        "setor": "Financeiro",
+        "data": "2025-06-02"
+    },
+    {
+        "codigo": "BPAN4",
+        "dividendo_atual": 2.65,
+        "dividendo_medio": 3.38,
+        "p_l": 15.62,
+        "p_vp": 1.5,
+        "setor": "Financeiro",
+        "data": "2025-06-02"
+    },
+    {
+        "codigo": "SANB11",
+        "dividendo_atual": 5.41,
+        "dividendo_medio": 7.12,
+        "p_l": 7.85,
+        "p_vp": 1.24,
+        "setor": "Financeiro",
+        "data": "2025-06-02"
+    },
+    {
+        "codigo": "ABCB4",
+        "dividendo_atual": 7.85,
+        "dividendo_medio": 6.19,
+        "p_l": 4.91,
+        "p_vp": 0.79,
+        "setor": "Financeiro",
+        "data": "2025-06-02"
+    },
+    {
+        "codigo": "BMGB4",
+        "dividendo_atual": 10.4,
+        "dividendo_medio": 10.2,
+        "p_l": 7.51,
+        "p_vp": 0.49,
+        "setor": "Financeiro",
+        "data": "2025-06-02"
+    },
+    {
+        "codigo": "BPAC11",
+        "dividendo_atual": 2.17,
+        "dividendo_medio": 2.23,
+        "p_l": 12.4,
+        "p_vp": 2.54,
+        "setor": "Financeiro",
+        "data": "2025-06-02"
+    },
+    {
+        "codigo": "BRSR6",
+        "dividendo_atual": 8.3,
+        "dividendo_medio": 7.82,
+        "p_l": 6.51,
+        "p_vp": 0.47,
+        "setor": "Financeiro",
+        "data": "2025-06-02"
+    },
+    {
+        "codigo": "PINE4",
+        "dividendo_atual": 9.32,
+        "dividendo_medio": 3.46,
+        "p_l": 4.32,
+        "p_vp": 1.05,
+        "setor": "Financeiro",
+        "data": "2025-06-02"
+    },
+    {
+        "codigo": "BRAP4",
+        "dividendo_atual": 13.0,
+        "dividendo_medio": 16.97,
+        "p_l": 5.25,
+        "p_vp": 0.71,
+        "setor": "Financeiro",
+        "data": "2025-06-02"
+    },
+    {
+        "codigo": "SYNE3",
+        "dividendo_atual": 55.13,
+        "dividendo_medio": 37.26,
+        "p_l": 1.62,
+        "p_vp": 0.83,
+        "setor": "Financeiro",
+        "data": "2025-06-02"
+    },
+    {
+        "codigo": "LOGG3",
+        "dividendo_atual": 9.24,
+        "dividendo_medio": 4.94,
+        "p_l": 5.01,
+        "p_vp": 0.51,
+        "setor": "Financeiro",
+        "data": "2025-06-02"
+    },
+    {
+        "codigo": "PSSA3",
+        "dividendo_atual": 4.2,
+        "dividendo_medio": 6.2,
+        "p_l": 11.97,
+        "p_vp": 2.44,
+        "setor": "Financeiro",
+        "data": "2025-06-02"
+    },
+    {
+        "codigo": "WIZC3",
+        "dividendo_atual": 3.48,
+        "dividendo_medio": 6.98,
+        "p_l": 6.86,
+        "p_vp": 1.96,
+        "setor": "Financeiro",
+        "data": "2025-06-02"
+    },
+    {
+        "codigo": "BNBR3",
+        "dividendo_atual": 5.98,
+        "dividendo_medio": 5.02,
+        "p_l": 4.0,
+        "p_vp": 0.62,
+        "setor": "Financeiro",
+        "data": "2025-06-02"
+    },
+    {
+        "codigo": "BMEB4",
+        "dividendo_atual": 5.62,
+        "dividendo_medio": 6.22,
+        "p_l": 8.81,
+        "p_vp": 2.17,
+        "setor": "Financeiro",
+        "data": "2025-06-02"
+    },
+    {
+        "codigo": "BEES3",
+        "dividendo_atual": 5.89,
+        "dividendo_medio": 6.94,
+        "p_l": 6.43,
+        "p_vp": 1.19,
+        "setor": "Financeiro",
+        "data": "2025-06-02"
+    },
+    {
+        "codigo": "BAZA3",
+        "dividendo_atual": 10.54,
+        "dividendo_medio": 8.3,
+        "p_l": 3.77,
+        "p_vp": 0.65,
+        "setor": "Financeiro",
+        "data": "2025-06-02"
+    },
+    {
+        "codigo": "BGIP4",
+        "dividendo_atual": 14.15,
+        "dividendo_medio": 8.22,
+        "p_l": 3.77,
+        "p_vp": 0.68,
+        "setor": "Financeiro",
+        "data": "2025-06-02"
+    },
+    {
+        "codigo": "BBSE3",
+        "dividendo_atual": 9.77,
+        "dividendo_medio": 7.5,
+        "p_l": 8.53,
+        "p_vp": 6.32,
+        "setor": "Financeiro",
+        "data": "2025-06-02"
+    },
+    {
+        "codigo": "SCAR3",
+        "dividendo_atual": 10.26,
+        "dividendo_medio": 3.67,
+        "p_l": -33.45,
+        "p_vp": 0.63,
+        "setor": "Financeiro",
+        "data": "2025-06-02"
+    },
+    {
+        "codigo": "PLPL3",
+        "dividendo_atual": 6.86,
+        "dividendo_medio": 4.28,
+        "p_l": 8.2,
+        "p_vp": 3.78,
+        "setor": "Financeiro",
+        "data": "2025-06-02"
+    },
+    {
+        "codigo": "IGTI3",
+        "dividendo_atual": 3.55,
+        "dividendo_medio": 1.24,
+        "p_l": 10.8,
+        "p_vp": 0.79,
+        "setor": "Financeiro",
+        "data": "2025-06-02"
+    },
+    {
+        "codigo": "PEAB3",
+        "dividendo_atual": 2.13,
+        "dividendo_medio": 16.64,
+        "p_l": 21.61,
+        "p_vp": 0.86,
+        "setor": "Financeiro",
+        "data": "2025-06-02"
+    },
+    {
+        "codigo": "BSLI3",
+        "dividendo_atual": 1.63,
+        "dividendo_medio": 2.33,
+        "p_l": 14.38,
+        "p_vp": 0.76,
+        "setor": "Financeiro",
+        "data": "2025-06-02"
+    },
+    {
+        "codigo": "MOAR3",
+        "dividendo_atual": 30.15,
+        "dividendo_medio": 5.27,
+        "p_l": -25.13,
+        "p_vp": 2.06,
+        "setor": "Financeiro",
+        "data": "2025-06-02"
+    },
+    {
+        "codigo": "SIMH3",
+        "dividendo_atual": 1.32,
+        "dividendo_medio": 2.44,
+        "p_l": -19.34,
+        "p_vp": 1.62,
+        "setor": "Financeiro",
+        "data": "2025-06-02"
+    },
+    {
+        "codigo": "CXSE3",
+        "dividendo_atual": 7.59,
+        "dividendo_medio": 7.66,
+        "p_l": 11.19,
+        "p_vp": 3.16,
+        "setor": "Financeiro",
+        "data": "2025-06-02"
+    }
+]
